@@ -4,7 +4,7 @@ import hmac
 import hashlib
 import os
 
-HMAC_KEY = "90f1150c3dba4812fcb7567b10af9bac"
+HMAC_KEY = "your_hmac"
 labels = {
     '1': 'stovewithhuman',
     '2': 'onlystove',
